@@ -4,6 +4,6 @@ const nextConfig = {
     domains: ['images.unsplash.com'],
     unoptimized: true,
   },
-};
+}
 
-module.exports = nextConfig;
+export default nextConfig
