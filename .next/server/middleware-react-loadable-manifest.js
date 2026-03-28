@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/page.tsx -> lenis":{"id":4108,"files":["static/chunks/108.b7f12fe034805373.js"]}}';
